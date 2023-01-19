@@ -1,7 +1,6 @@
 # ds3-wi23-ds-tools-workshops
 This repository serves as a template for all future repositories to follow after.
 
-https://datalemur.com
 
 #to-do's
 
@@ -15,6 +14,7 @@ https://datalemur.com
 - activities
   -   split them by groups and assign them each a problem
   -   have them explain their thought process approaching the problem
+  -   ex industry q's: https://datalemur.com
 - add feedback qr code to slides 
 
 
