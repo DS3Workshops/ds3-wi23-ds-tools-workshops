@@ -1,4 +1,4 @@
-"Rank","Restaurant","Sales","Average Check","City","State","Meals Served"
+"rank","restaurant","sales","avg_check","city","state","meals_served"
 "1","Carmine's (Times Square)",39080335,40,"New York","N.Y.",469803
 "2","The Boathouse Orlando",35218364,43,"Orlando ","Fla.",820819
 "3","Old Ebbitt Grill",29104017,33,"Washington","D.C.",892830
